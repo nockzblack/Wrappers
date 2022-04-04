@@ -11,6 +11,8 @@
 		C168E1B027FB43C900A94CA2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C168E1AF27FB43C900A94CA2 /* ContentView.swift */; };
 		C168E1B227FB43CB00A94CA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C168E1B127FB43CB00A94CA2 /* Assets.xcassets */; };
 		C168E1B527FB43CB00A94CA2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C168E1B427FB43CB00A94CA2 /* Preview Assets.xcassets */; };
+		C168E1BC27FB43EB00A94CA2 /* FoodView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C168E1BB27FB43EB00A94CA2 /* FoodView.swift */; };
+		C168E1BE27FB459E00A94CA2 /* TextToggleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C168E1BD27FB459E00A94CA2 /* TextToggleButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		C168E1AF27FB43C900A94CA2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C168E1B127FB43CB00A94CA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C168E1B427FB43CB00A94CA2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C168E1BB27FB43EB00A94CA2 /* FoodView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodView.swift; sourceTree = "<group>"; };
+		C168E1BD27FB459E00A94CA2 /* TextToggleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextToggleButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				C168E1AF27FB43C900A94CA2 /* ContentView.swift */,
 				C168E1B127FB43CB00A94CA2 /* Assets.xcassets */,
 				C168E1B327FB43CB00A94CA2 /* Preview Content */,
+				C168E1BB27FB43EB00A94CA2 /* FoodView.swift */,
+				C168E1BD27FB459E00A94CA2 /* TextToggleButton.swift */,
 			);
 			path = Wrappers;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C168E1BE27FB459E00A94CA2 /* TextToggleButton.swift in Sources */,
+				C168E1BC27FB43EB00A94CA2 /* FoodView.swift in Sources */,
 				C168E1B027FB43C900A94CA2 /* ContentView.swift in Sources */,
 				C168E1AE27FB43C900A94CA2 /* WrappersApp.swift in Sources */,
 			);
